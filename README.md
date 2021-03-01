@@ -1,2 +1,2 @@
 # caracteristicas-dnd
-PROPIEDAD DE MATIAS ERRECALDE.
+Es solo un prototipo
