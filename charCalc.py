@@ -6,7 +6,7 @@ inteligencia = 8
 sabiduria = 8
 carisma = 8
 
-puntos = 30
+puntos = 27
 
 print("""Listado de caracteristicas:\n 
 \t* str ---> Fuerza
